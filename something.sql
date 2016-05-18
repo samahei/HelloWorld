@@ -1,11 +1,11 @@
-select * from user;
+select * from player;
 
-select * from user;
+select * from player;
 
-select * from user;
+select * from player;
 
-select * from user;
+select * from player;
 
-select * from user;
+select * from player;
 
-select * from user;
+select * from player;
